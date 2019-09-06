@@ -1,10 +1,10 @@
 {
-  "vCode": 16,
+  "vCode": 101,
   "isForce": true,
   "content": "新版本更新",
   "tradeAutoConfirm": 10,
   "tradeMinInterval": 30,
-  "downloadUrl": "",
+  "downloadUrl": "https://xqiang2911.github.io/demo/build.apk",
   "alipayQrRules": "https://qr.alipay.com/,https://d.alipay.com/,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
   "weixinQrRules": "wxp://,https://payapp.weixin.qq.com,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://ipos.lakala.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
   "apiGateway": "https://hi777.fuckahr.com/",
