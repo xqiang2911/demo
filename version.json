@@ -1,7 +1,7 @@
 {
-  "vCode": 102,
-  "isForce": true,
-  "content": "新版本更新",
+  "vCode": 103,
+  "isForce": false,
+  "content": "新增接单区域设置",
   "tradeAutoConfirm": 10,
   "tradeMinInterval": 30,
   "downloadUrl": "https://xqiang2911.github.io/demo/build.apk",
