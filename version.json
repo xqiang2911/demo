@@ -1,12 +1,14 @@
 {
-  "vCode": 103,
+  "vCode": 104,
   "isForce": false,
-  "content": "新增接单区域设置",
+  "content": "添加搬运充值用户昵称；\n 关于我们页面可复制 App 下载链接；",
   "tradeAutoConfirm": 10,
   "tradeMinInterval": 30,
   "downloadUrl": "https://xqiang2911.github.io/demo/build.apk",
   "alipayQrRules": "https://qr.alipay.com/,https://d.alipay.com/,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
   "weixinQrRules": "wxp://,https://payapp.weixin.qq.com,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://ipos.lakala.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
   "apiGateway": "https://apihi.fuckahr.com/",
-  "adUrl": ""
+  "adUrl": "",
+  "shortDownUrl": "",
+  "mobileRegular": ""
 }
