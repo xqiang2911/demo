@@ -1,8 +1,7 @@
 {
-  "vCode": 104,
+  "vCode": 105,
   "isForce": false,
-  "content": "添加搬运充值用户昵称；\n 关于我们页面可复制 App 下载链接；",
-  "tradeAutoConfirm": 10,
+  "content": "设置中添加修改确认订单倒计时功能；",
   "tradeMinInterval": 20,
   "downloadUrl": "https://xqiang2911.github.io/demo/build.apk",
   "alipayQrRules": "https://qr.alipay.com/,https://d.alipay.com/,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
