@@ -9,5 +9,6 @@
   "apiGateway": "https://apihi.fuckahr.com/",
   "adUrl": "",
   "shortDownUrl": "",
-  "mobileRegular": ""
+  "mobileRegular": "",
+  "bankList": "招商银行,浙商银行,交通银行,中信银行,中国银行,杭州银行,中国工商银行,中国建设银行,中国民生银行,中国农业银行,中国邮政储蓄银行"
 }
