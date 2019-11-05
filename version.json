@@ -1,7 +1,7 @@
 {
   "vCode": 106,
   "isForce": true,
-  "content": "新增银行卡收款",
+  "content": "版本更新",
   "tradeMinInterval": 20,
   "downloadUrl": "https://xqiang2911.github.io/demo/build.apk",
   "alipayQrRules": "https://qr.alipay.com/,https://d.alipay.com/,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
