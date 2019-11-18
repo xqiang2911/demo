@@ -4,7 +4,7 @@
   "content": "版本更新",
   "tradeMinInterval": 20,
   "downloadUrl": "https://xqiang2911.github.io/demo/build.apk",
-  "alipayQrRules": "https://qr.alipay.com/,https://d.alipay.com/,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
+  "alipayQrRules": "https://qr.alipay.com/,https://d.alipay.com/,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/,https://ds.alipay.com",
   "weixinQrRules": "wxp://,https://payapp.weixin.qq.com,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://ipos.lakala.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
   "apiGateway": "https://apihi.fuckahr.com/",
   "adUrl": "",
